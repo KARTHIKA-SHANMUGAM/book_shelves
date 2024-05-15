@@ -1,0 +1,15 @@
+{  
+
+	"Amount":"10000",
+	"Recipient_Name":"Karthika",
+	"Recipient_Email":"karthikagmail.com",
+	"Recipient_Mobile":"8249417829",
+	"Customer_Name": "Rohini",
+	"Customer_Email":"rohini@gmail.com",
+	"Customer_Mobile":"8658859256",
+	"Customer_Address":"Arasur",
+	"Customer_PinCode":"641407",
+	"Message":"Happy BirthDay",
+	"Correct_email":"karthika@gmail.com"
+
+}

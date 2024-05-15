@@ -1,0 +1,4 @@
+14:07:22.177 [main] INFO  testBase.BaseClass - **********confirmcustomerCity()successfully passed***********
+14:07:22.511 [main] INFO  testBase.BaseClass - **********Verifying customer pincode***********
+14:07:22.556 [main] INFO  testBase.BaseClass - **********confirmcustomerPinCode() successfully passed***********
+14:07:22.556 [main] INFO  testBase.BaseClass - **********Finished TC_0005_ConfirmingFormDetails ************

@@ -1,0 +1,48 @@
+10:05:39.805 [main] INFO  testBase.BaseClass - *********Fetching and Storing Submenu Items in Excel************
+10:05:44.509 [main] INFO  testBase.BaseClass - **********submenuSeatingandChairStoreInExcel() Successfuly passed************
+10:05:44.895 [main] INFO  testBase.BaseClass - *********Printing the Submenu options on console************
+10:05:47.278 [main] INFO  testBase.BaseClass - *********Waiting for Submenu to appear************
+10:05:47.278 [main] INFO  testBase.BaseClass - **********displaySubMenuSeatingandChair() successfully passed************
+10:05:47.510 [main] INFO  testBase.BaseClass - **********Starting TC_0004_GiftCards************
+10:05:47.513 [main] INFO  testBase.BaseClass - **********Scrolling Page Up Gift Cards button***********
+10:05:47.558 [main] INFO  testBase.BaseClass - **********scrollPage() successfully passed***********
+10:05:47.780 [main] INFO  testBase.BaseClass - **********Clicking the Gift Cards Button***********
+10:05:50.565 [main] INFO  testBase.BaseClass - **********clickGiftCardsButton() successfully passed***********
+10:05:51.200 [main] INFO  testBase.BaseClass - **********loading JSON file***********
+10:05:51.207 [main] INFO  testBase.BaseClass - **********loadTheJSONFile() successfully passed***********
+10:05:51.799 [main] INFO  testBase.BaseClass - **********Scrolling to all gift options present***********
+10:05:51.841 [main] INFO  testBase.BaseClass - **********scrollDownToGiftsOptions() successfully passed***********
+10:05:52.137 [main] INFO  testBase.BaseClass - **********Selcting Birthday And Anniversary card***********
+10:05:52.270 [main] INFO  testBase.BaseClass - **********selectBirthdayOrAnniversary() successfully passed***********
+10:05:52.597 [main] INFO  testBase.BaseClass - **********Entring Price for Card***********
+10:05:52.734 [main] INFO  testBase.BaseClass - **********enteringPriceAmount() successfully passed***********
+10:05:53.218 [main] INFO  testBase.BaseClass - **********Clicking on next Button***********
+10:05:53.348 [main] INFO  testBase.BaseClass - **********clickOnNextbtn() successfully passed***********
+10:05:53.728 [main] INFO  testBase.BaseClass - **********Entring Recipient name***********
+10:05:53.938 [main] INFO  testBase.BaseClass - **********lenterNameofRecipient() successfully passed***********
+10:05:54.125 [main] INFO  testBase.BaseClass - **********Entering the invalid recipient email***********
+10:05:54.295 [main] INFO  testBase.BaseClass - **********EnterEmailofRecipient() successfully passed***********
+10:05:54.498 [main] INFO  testBase.BaseClass - **********Entring Recipient Mobile number***********
+10:05:54.647 [main] INFO  testBase.BaseClass - *********enterMobileofRecipient() successfully passed***********
+10:05:54.826 [main] INFO  testBase.BaseClass - **********Entering Name of Customer***********
+10:05:54.997 [main] INFO  testBase.BaseClass - *********enterNameofCustomer() successfully passed***********
+10:05:55.198 [main] INFO  testBase.BaseClass - **********Entring Email of Customer***********
+10:05:55.345 [main] INFO  testBase.BaseClass - **********enterEmailofCustomer() successfully passed***********
+10:05:55.531 [main] INFO  testBase.BaseClass - **********Entering Mobile number of Customer***********
+10:05:55.906 [main] INFO  testBase.BaseClass - **********enterMobileNumberofCustomer() successfully passed***********
+10:05:56.140 [main] INFO  testBase.BaseClass - **********Entering Address of Customer***********
+10:05:56.274 [main] INFO  testBase.BaseClass - **********enterAddressofCustomer() successfully passed***********
+10:05:56.473 [main] INFO  testBase.BaseClass - **********Entering Pin code of Customer***********
+10:05:56.625 [main] INFO  testBase.BaseClass - **********enterPinofCustomerPin() successfully passed***********
+10:05:56.879 [main] INFO  testBase.BaseClass - **********Entering Message ***********
+10:05:57.027 [main] INFO  testBase.BaseClass - **********enterMessageIfAny() successfully passed***********
+10:05:57.195 [main] INFO  testBase.BaseClass - **********Clicking confirm button***********
+10:06:00.323 [main] INFO  testBase.BaseClass - **********clickOnConfirmbtn() successfully passed***********
+10:06:00.530 [main] INFO  testBase.BaseClass - **********Capturing Error Message***********
+10:06:00.562 [main] INFO  testBase.BaseClass - **********getErrorMessage() successfully passed***********
+10:06:00.776 [main] INFO  testBase.BaseClass - **********Clearing the email input box for recipient***********
+10:06:00.937 [main] INFO  testBase.BaseClass - **********clearrecipientmail() successfully passed***********
+10:06:01.149 [main] INFO  testBase.BaseClass - **********Entering correct mail for recipient***********
+10:06:01.304 [main] INFO  testBase.BaseClass - **********enterCorrectDeatils() successfully passed***********
+10:06:01.513 [main] INFO  testBase.BaseClass - **********clicking on confirm button***********
+10:06:04.634 [main] INFO  testBase.BaseClass - **********clickConfirmWithcorrectEmail() successfully passed***********
